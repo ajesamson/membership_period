@@ -20,7 +20,7 @@
   <compatibility>
     <ver>4.7</ver>
   </compatibility>
-  <comments>This is a new, module. Development is still in progress.</comments>
+  <comments>This is a new membership module extension. Development is still in progress.</comments>
   <civix>
     <namespace>CRM/Membershipperiod</namespace>
   </civix>
